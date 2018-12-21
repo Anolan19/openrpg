@@ -1,2 +1,2 @@
-# OpenLegend
-The github repository for the open source rpg Open Legend.
+# Change the World
+Fork this repositroy and add your changes to the game via a perge request!
